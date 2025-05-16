@@ -1,0 +1,14 @@
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer.csprojAssemblyReference.cache
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\MainWindow.g.cs
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\App.g.cs
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer_MarkupCompile.cache
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer_MarkupCompile.lref
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\bin\Debug\StandardsAnalyzer.exe
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\bin\Debug\StandardsAnalyzer.pdb
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\MainWindow.baml
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer.g.resources
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer.Properties.Resources.resources
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer.csproj.GenerateResource.cache
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer.csproj.CoreCompileInputs.cache
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer.exe
+D:\Unity\StandardsAnalyzer\StandardsAnalyzer_Archive\obj\Debug\StandardsAnalyzer.pdb
